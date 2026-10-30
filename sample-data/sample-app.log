@@ -1,0 +1,9 @@
+2026-10-29 10:01:02 INFO Application started successfully
+2026-10-29 10:01:05 INFO User login: alice@example.test
+2026-10-29 10:01:07 WARN Login failed for user bob@example.test from 203.0.113.42
+2026-10-29 10:01:10 ERROR Authentication debug: password=DEMO_ONLY_FakePass_123!
+2026-10-29 10:01:12 ERROR Authorization header: Bearer DEMO_ONLY_fake_token_7f93c1a8b2d4
+2026-10-29 10:01:15 ERROR Database connection: postgresql://demo_user:DEMO_ONLY_FakeDbPass@db.example.test:5432/demo_db
+2026-10-29 10:01:20 INFO Request completed with status=200
+2026-10-29 10:01:25 WARN Repeated failed login attempts from 198.51.100.27
+2026-10-29 10:01:30 INFO Health check passed

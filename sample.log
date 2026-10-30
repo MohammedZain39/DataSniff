@@ -1,0 +1,8 @@
+2026-10-29T10:30:00Z INFO login attempt user=demo.user@example.test from=192.168.1.24
+2026-10-29T10:30:01Z WARN auth Authorization: Bearer demo_token_value_abcdefghijklm
+2026-10-29T10:30:02Z ERROR db postgres://demo_user:fake_password_123@db.example.test:5432/demo
+2026-10-29T10:30:03Z INFO config password=FakePass-1234
+2026-10-29T10:30:04Z WARN contact phone=+1 415 555 0199
+-----BEGIN PRIVATE KEY-----
+SYNTHETIC-KEY-CONTENT-NOT-A-REAL-PRIVATE-KEY
+-----END PRIVATE KEY-----

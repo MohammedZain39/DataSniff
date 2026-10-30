@@ -1,0 +1,7 @@
+2026-10-29 11:00:00 INFO Server started on port 8080
+2026-10-29 11:00:01 INFO Health check passed
+2026-10-29 11:00:02 INFO Order ORD-1042 processed successfully
+2026-10-29 11:00:03 INFO Retry count: 2
+2026-10-29 11:00:04 INFO HTTP response status: 200
+2026-10-29 11:00:05 INFO Feature flag enabled: checkout_v2
+2026-10-29 11:00:06 INFO Cache refresh completed
